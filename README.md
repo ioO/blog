@@ -2,4 +2,11 @@
 
 Mon blog temporaire sur github.
 
-Les articles sont classés du plus récent au plus ancien dans la liste des fichiers ci-dessus.
+La liste des articles du plus récent au plus ancien :
+
+* [J'y pip rien](j-y-pip-rien.md)
+* [Itérations plus courtes](iteration-plus-courtes.md)
+* [Un dimanche](un-dimanche.md)
+* [Pourquoi Running Lean](pourquoi-running-lean.md)
+* [Pas de commentaires](pas-de-commentaires.md)
+* [Contribution](contribution.md)

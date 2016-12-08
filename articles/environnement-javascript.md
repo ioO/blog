@@ -13,6 +13,8 @@ Voici les outils que j'ai sélectionnés pour me créer une base de travail pour
 * babel plugin coverage
 * nyc
 
+![environnement-javascript.jpg](/images/environnement-javascript.jpg)
+
 L'objectif est de pouvoir coder en apprenant la syntaxe es6 et d'utiliser des outils qui m'aident à garder une qualité 
 de code. La base de code de cet article est celle du [tag v.0.0.1](https://github.com/ioO/ecrire/releases/tag/v0.0.1) 
 dans le dépôt.
@@ -42,7 +44,7 @@ exemple avec les tâches _babelify_ donne une souplesse.
 
 ### Astuce 
 
-  $(npm bin) retrouve le chemin vers les exécutables dans le dossier node_modules de votre projet.
+    $(npm bin) retrouve le chemin vers les exécutables dans le dossier node_modules de votre projet.
 
 ## Babel et eslint
 

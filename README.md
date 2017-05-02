@@ -4,6 +4,7 @@ Mon blog temporaire sur github.
 
 La liste des articles du plus récent au plus ancien :
 
+* [Lettre aux responsables de la Tam](/articles/lettre-aux-responsables-tam.md)
 * [Environnement javascript](/articles/environnement-javascript.md)
 * [Solution temporaire](/articles/solution-temporaire.md)
 * [J'y pip rien](/articles/j-y-pip-rien.md)

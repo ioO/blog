@@ -19,7 +19,7 @@ stratégies](https://www.scienceshumaines.com/combattre-fuir-subir_fr_25520.html
 
 Ce n'est pas possible pour tout le monde. Je sais que certains le feront et d'autres non. Ce sont plutôt nos "élites" 
 qui fuieront, elles en ont parfaitement la carrure et les moyens. Mais pour beaucoup, tout quitter, devenir étranger, 
-perdre tout ce que l'on a et ne pas savoir ce que l'on va retrouver, c'est un chemin très difficile, voir impossible.
+perdre tout ce que l'on a et ne pas savoir ce que l'on va retrouver, c'est un chemin très difficile, voire impossible.
 
 ## Subir
 
